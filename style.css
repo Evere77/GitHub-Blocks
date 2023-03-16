@@ -1,0 +1,35 @@
+.container {
+    min-height: 20px;
+    min-width: 800px;
+    background-color: grey;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.top-row {
+    min-height: 20px;
+    background-color: red;
+    padding: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.center-row {
+    min-height: 20px;
+    background-color: white;
+    padding: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.bottom-row {
+    min-height: 20px;
+    background-color: blue;
+    padding: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
